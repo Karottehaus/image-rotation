@@ -1,2 +1,2 @@
-# image_rotation
+# image-rotation
 automatic rotation of images
